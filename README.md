@@ -1,6 +1,9 @@
 # fotokode
 Jadikan kodemu menjadi gambar dengan berbagai tema yang keren
 
+# Live Demo
+<a href="http://fotokode.surge.sh/?bg=%23CFCACC&tema=okaidia&bahasa=javascript&code=%2F%2FPaste%20kodemu%20disini">Demo</a>
+
 # Contoh
 <p align="center">
   <img alt="example result" src="https://github.com/ricko-v/fotokode/blob/master/example.png"/>
