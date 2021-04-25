@@ -1,0 +1,47 @@
+html,body {
+  margin:0;
+  width: 100%;
+  height: 100%;
+  background: silver;
+}
+
+textarea.prism-live,
+pre.prism-live {
+  padding-top: 35px !important;
+		 
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  padding-botton: 20px !important;
+  border-radius: 5px !important;
+		   
+}
+	
+#app {
+  margin-top: 50px;
+}
+
+/*
+#app {
+  height:100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-align: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+*/
+
+
+.coba {
+  height: 1000px;
+  background: red;
+}
+
+h3 {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 20px;
+  color: #F06A87;
+}
+
