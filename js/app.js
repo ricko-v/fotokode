@@ -272,13 +272,13 @@ const home = {
       let them = document.createElement('link');
           them.setAttribute("rel", "stylesheet");
           them.setAttribute("id", "tema");
-          them.setAttribute("href",'/tema/'+t+'.css');
+          them.setAttribute("href",'tema/'+t+'.css');
       document.head.appendChild(them);
 
       let prism_css = document.createElement('link');
           prism_css.setAttribute('rel','stylesheet');
           prism_css.setAttribute("id", "pcss");
-          prism_css.setAttribute("href", "/src/prism-live.css");
+          prism_css.setAttribute("href", "src/prism-live.css");
       document.head.appendChild(prism_css);
 
       let prism_live = document.createElement('script');
