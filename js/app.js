@@ -1,4 +1,4 @@
-let path = "/fotokode"; //ubah ke '/' untuk root path
+let path = "/";
 let ba = "";
 let te = "";
 let co = "";
